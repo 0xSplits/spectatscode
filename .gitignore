@@ -1,0 +1,4 @@
+/node_modules
+/build
+/dst/
+.DS_Store
