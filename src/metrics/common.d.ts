@@ -15,9 +15,7 @@ import { MessageType } from "@protobuf-ts/runtime";
  *             "key": "value"
  *         },
  *         "metric": "teams_bridge_error_total",
- *         "values": [
- *             1
- *         ]
+ *         "number": 3.141592
  *     }
  *
  *
