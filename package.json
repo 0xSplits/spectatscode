@@ -17,7 +17,7 @@
   "devDependencies": {
     "@types/node-fetch": "^2.6.12",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.2"
   },
   "dependencies": {
     "@protobuf-ts/plugin": "^2.11.0",
