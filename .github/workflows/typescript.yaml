@@ -9,9 +9,6 @@ name: "typescript"
 
 on: "push"
 
-permissions:
-  contents: read
-
 jobs:
   typescript:
     runs-on: "ubuntu-latest"

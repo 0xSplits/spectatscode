@@ -22,9 +22,6 @@ on:
     types:
       - "created"
 
-permissions:
-  contents: read
-
 jobs:
   npm-publish:
     permissions:
